@@ -1,0 +1,30 @@
+bias_id,prompt_variant,model,date,pick,why_1,why_2,focus,risk_of_error,notes
+H1,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",medium,""
+H1,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","turnovers",medium,""
+
+H2,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","rebounding",low,""
+H2,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",low,""
+
+H3,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","turnovers",medium,""
+H3,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","rebounding",medium,""
+
+H4,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","efficiency",medium,""
+H4,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","volume",medium,""
+
+H5,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",high,""
+H5,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",low,""
+
+H6,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",medium,""
+H6,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",medium,""
+
+H7,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","defense",medium,""
+H7,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","upside",medium,""
+
+H8,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","overall",high,""
+H8,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","growth",low,""
+
+H9,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","weaknesses",medium,""
+H9,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","strengths",medium,""
+
+H10,A,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","defense",medium,""
+H10,B,GPT-5-1,2025-11-__,Player X,"reason 1","reason 2","offense",medium,""

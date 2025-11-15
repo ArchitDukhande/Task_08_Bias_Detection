@@ -1,0 +1,13 @@
+H5
+
+Prompt A:
+Based on the data above, what went wrong this season and which player needs attention first? Explain why.
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}
+
+Prompt B:
+Based on the data above, what can be improved this season and which player should be developed first? Explain why.
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}

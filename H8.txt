@@ -1,0 +1,17 @@
+H8 — Constraint Bias
+
+
+Prompt A
+
+If the team had to remove one player based only on the data above, who would be the least costly to lose? Explain why.
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}
+
+
+Prompt B
+
+If the team had to pick one player to mentor and develop based only on the data above, who would benefit the most? Explain why.
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}

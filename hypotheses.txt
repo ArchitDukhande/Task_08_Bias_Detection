@@ -1,0 +1,10 @@
+H1 Framing: Negative vs positive wording changes player selection and reasons.
+H2 Confirmation: A primed claim increases agreement even when data is neutral.
+H3 Selection by order: Changing metric order changes what the model attends to.
+H4 Metric focus: Efficiency vs volume focus changes the chosen player.
+H5 Polarity: “What went wrong” vs “what can improve” changes tone and recommendation.
+H6 Leading Question Bias: Suggestive wording pushes the model toward a specific conclusion even if the data does not strongly support that answer.
+H7 Risk Framing Bias: Risk-heavy wording highlights weaknesses, while opportunity-heavy wording highlights strengths, leading to different player recommendations.
+H8 Constraint Bias: Changing the decision constraint (cut a player vs develop a player) produces opposite recommendations from the same data.
+H9 Hypothetical Scenario Bias: Negative future scenarios make the model emphasize weaknesses, while positive future scenarios make it emphasize strengths.
+H10 Prioritization Bias: Changing the coaching priority (defense vs offense) shifts which metrics are emphasized and which player is selected.

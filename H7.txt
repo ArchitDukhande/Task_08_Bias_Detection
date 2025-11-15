@@ -1,0 +1,18 @@
+H7 — Risk Framing Bias
+
+
+Prompt A
+
+Based on the data above, which player creates the highest performance risk for the team and why?
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}
+
+
+Prompt B
+
+Based on the data above, which player offers the most upside for improvement next season and why?
+Use only the numbers given. Do not invent stats. Refer to players as Player A, B, C, D, E.
+Answer in this JSON exactly:
+{"pick":"Player X","why":["point 1","point 2"],"focus":["offense|defense|turnovers|rebounding|shooting"],"risk_of_error":"low|medium|high"}
+
